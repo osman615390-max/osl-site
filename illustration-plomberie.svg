@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="t d">
+<title id="t">Réseau sanitaire</title><desc id="d">Visualisation conceptuelle OSL — réseau de plomberie technique</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0c0d"/><stop offset="1" stop-color="#151515"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#876633"/><stop offset=".52" stop-color="#dfc180"/><stop offset="1" stop-color="#876633"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/><rect width="1200" height="800" fill="url(#grid)"/>
+<circle cx="930" cy="190" r="300" fill="#7fc5da" fill-opacity=".08"/>
+<circle cx="180" cy="700" r="250" fill="#d0ad6c" fill-opacity=".045"/>
+<text x="70" y="95" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" fill="#d0ad6c" letter-spacing="5">OSL / PLOMBERIE</text>
+<text x="70" y="154" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="900" fill="#f0ece4">Réseau sanitaire</text>
+<text x="70" y="190" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#bdb6ac" letter-spacing="2">VISUALISATION CONCEPTUELLE</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M140 530H410Q480 530 480 460V300Q480 235 545 235H910Q985 235 985 310V370" stroke="#7fc5da" stroke-width="16" opacity=".22"/>
+<path d="M140 530H410Q480 530 480 460V300Q480 235 545 235H910Q985 235 985 310V370" stroke="#7fc5da" stroke-width="4" filter="url(#glow)"/>
+<path d="M245 625H630Q700 625 700 555V450Q700 390 760 390H1080" stroke="url(#gold)" stroke-width="4"/>
+<circle cx="480" cy="380" r="17" stroke="#d0ad6c" stroke-width="4"/><circle cx="700" cy="495" r="17" stroke="#d0ad6c" stroke-width="4"/>
+<path d="M965 370c-24 34-34 53-34 72a34 34 0 0 0 68 0c0-19-10-38-34-72z" stroke="#7fc5da" stroke-width="4"/>
+</g>
+<path d="M70 720H1130" stroke="#ffffff" stroke-opacity=".10"/><text x="70" y="757" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#aaa298" letter-spacing="2">PLOMBERIE · CHAUFFAGE · RÉNOVATION</text>
+<text x="1130" y="757" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#d0ad6c">OSL</text>
+</svg>

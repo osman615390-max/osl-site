@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="t d">
+<title id="t">Transformation</title><desc id="d">Visualisation conceptuelle OSL — rénovation intérieure</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0c0d"/><stop offset="1" stop-color="#151515"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#876633"/><stop offset=".52" stop-color="#dfc180"/><stop offset="1" stop-color="#876633"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/><rect width="1200" height="800" fill="url(#grid)"/>
+<circle cx="930" cy="190" r="300" fill="#d8c8a2" fill-opacity=".08"/>
+<circle cx="180" cy="700" r="250" fill="#d0ad6c" fill-opacity=".045"/>
+<text x="70" y="95" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" fill="#d0ad6c" letter-spacing="5">OSL / RENOVATION</text>
+<text x="70" y="154" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="900" fill="#f0ece4">Transformation</text>
+<text x="70" y="190" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#bdb6ac" letter-spacing="2">VISUALISATION CONCEPTUELLE</text>
+<g fill="none" stroke-linejoin="round">
+<rect x="560" y="245" width="430" height="315" stroke="#d8c8a2" stroke-width="4"/>
+<rect x="615" y="300" width="320" height="205" stroke="#d8c8a2" stroke-opacity=".34" stroke-width="2"/>
+<path d="M615 505l160-120 160 120" stroke="#d0ad6c" stroke-width="4"/>
+<path d="M775 385V265" stroke="#d0ad6c" stroke-width="4"/>
+<path d="M210 590L390 410l90 90-180 180z" stroke="#d8c8a2" stroke-width="4"/>
+<path d="M255 545l90 90" stroke="#d0ad6c" stroke-width="3"/>
+</g>
+<path d="M70 720H1130" stroke="#ffffff" stroke-opacity=".10"/><text x="70" y="757" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#aaa298" letter-spacing="2">PLOMBERIE · CHAUFFAGE · RÉNOVATION</text>
+<text x="1130" y="757" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#d0ad6c">OSL</text>
+</svg>
