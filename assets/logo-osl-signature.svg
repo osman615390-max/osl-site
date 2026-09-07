@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-label="OSL Plomberie Chauffage Rénovation">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#b4873b"/>
+      <stop offset=".5" stop-color="#efd390"/>
+      <stop offset="1" stop-color="#b4873b"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="160" rx="18" fill="#070707"/>
+  <g transform="translate(24 22)">
+    <path d="M0 0h104l-8 116H-8z" fill="none" stroke="url(#g)" stroke-width="3"/>
+    <text x="48" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="900" fill="url(#g)">OSL</text>
+    <path d="M22 88h52" stroke="url(#g)" stroke-width="2"/>
+    <g transform="translate(23 98)">
+      <path d="M8 0C2 10 0 15 0 20c0 7 6 13 13 13s13-6 13-13c0-5-2-10-8-20-4 7-5 9-5 11 0 3 2 5 5 5" fill="none" stroke="#7fc5da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M45 0c10 8 16 15 16 24 0 10-7 17-16 17-9 0-16-7-16-17 0-7 3-13 11-24-1 8 1 12 7 15" fill="none" stroke="#e6a152" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M76 6l22 0 0 22-22 0z" fill="none" stroke="#d7c9a8" stroke-width="2.2"/>
+    </g>
+  </g>
+  <g transform="translate(154 38)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="36" font-size="52" font-weight="900" fill="#f3ede2" letter-spacing="8">OSL</text>
+    <text x="2" y="76" font-size="17" font-weight="700" fill="#a0988b" letter-spacing="4">PLOMBERIE · CHAUFFAGE · RÉNOVATION</text>
+    <text x="2" y="107" font-size="11" font-weight="700" fill="#b4873b" letter-spacing="3">DENNEY · BELFORT · 130 KM</text>
+  </g>
+</svg>
